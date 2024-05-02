@@ -12,5 +12,5 @@ FIXME
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.com/FIXME)
+- Link to [wikipedia](https://wikipedia.org/FIXME)
 
