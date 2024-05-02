@@ -4,12 +4,12 @@ project:
   output-dir: ../_site
 
 website:
-  title: "ECHILD"
+  title: "ARC-travellingo"
   image: "android-chrome-512x512.png"
   favicon: "favicon.ico"
   open-graph: true
   twitter-card: true
-  repo-url: https://github.com/UCL-ARC-Workshops/202401-echild-workshop
+  repo-url: https://github.com/UCL-ARC-Workshops/202405-arcgit-workshop
   page-navigation: true
   search: true
   back-to-top-navigation: true
@@ -20,8 +20,8 @@ website:
   navbar:
     title: "is travelling"
     background: dark
-    logo: echild.png
-    logo-alt: "ECHILD logo."
+    logo: UCL-ARC.png
+    logo-alt: "ARC logo."
     collapse-below: lg
     right:
       - href: cities.qmd
