@@ -1,7 +1,7 @@
 ---
 title: "Michelle H"
 subtitle: "World Traveller"
-image: ![World Traveller](https://media.self.com/photos/5f0885ffef7a10ffa6640daa/4:3/w_5240,h_3929,c_limit/travel_plane_corona.jpeg)
+image: https://media.self.com/photos/5f0885ffef7a10ffa6640daa/4:3/w_5240,h_3929,c_limit/travel_plane_corona.jpeg
 toc: false
 about:
   id: person-profile
