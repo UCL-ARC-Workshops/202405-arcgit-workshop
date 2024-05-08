@@ -1,7 +1,7 @@
 ---
 title: "Captain Robert Falcon Scott"
 subtitle: "Scott of the Antarctic"
-image: ![Scott of the Antartic](https://th.bing.com/th/id/R.572f9accb6a509af7d3152d2fd4f10e9?rik=uhCyyqkqiogWOA&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f3380976%2f1118full-robert-falcon-scott.jpg&ehk=bJsqwiRSI5bK6DOpk7JnpeixL2JQK7h2x77uQxalUNs%3d&risl=&pid=ImgRaw&r=0)
+image: https://th.bing.com/th/id/R.572f9accb6a509af7d3152d2fd4f10e9?rik=uhCyyqkqiogWOA&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f3380976%2f1118full-robert-falcon-scott.jpg&ehk=bJsqwiRSI5bK6DOpk7JnpeixL2JQK7h2x77uQxalUNs%3d&risl=&pid=ImgRaw&r=0
 toc: false
 about:
   id: person-profile
