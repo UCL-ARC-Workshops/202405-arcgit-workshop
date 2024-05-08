@@ -1,7 +1,7 @@
 ---
 title: "Martin Donnelly"
 subtitle: "Grumpy"
-image: ![MD mugshot](https://avatars.githubusercontent.com/u/2377239?v=4)
+image: https://avatars.githubusercontent.com/u/2377239?v=4
 toc: false
 about:
   id: person-profile
