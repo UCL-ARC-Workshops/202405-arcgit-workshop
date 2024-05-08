@@ -1,0 +1,31 @@
+---
+title: "Vicki YE"
+subtitle: "loves food and archaeology"
+image: https://avatars.githubusercontent.com/u/39996416?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+FIXME: add a one line description about the person
+
+## Travelled cities
+
+- FIXME - add cities visited.
+- FIXME - city 2
+- FIXME - city 3
