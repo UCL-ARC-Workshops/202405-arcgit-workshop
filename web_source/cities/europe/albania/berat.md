@@ -10,7 +10,7 @@ Berati
 
 Berat Castle, and to admire the view to the city. 
 
-![Berat Castle](https://wikimapia.org/3601421/Berat-Castle#/photo/7551033)
+![Berat Castle](https://en.wikipedia.org/wiki/Berat#/media/File:Berat_citadel.jpg)
 
 ### Extra information
 
