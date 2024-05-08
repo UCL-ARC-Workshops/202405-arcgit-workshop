@@ -1,0 +1,33 @@
+---
+title: "Captain Robert Falcon Scott"
+subtitle: "Scott of the Antarctic"
+image: ![Scott of the Antartic](https://th.bing.com/th/id/R.572f9accb6a509af7d3152d2fd4f10e9?rik=uhCyyqkqiogWOA&riu=http%3a%2f%2filarge.lisimg.com%2fimage%2f3380976%2f1118full-robert-falcon-scott.jpg&ehk=bJsqwiRSI5bK6DOpk7JnpeixL2JQK7h2x77uQxalUNs%3d&risl=&pid=ImgRaw&r=0)
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Captain Robert Falcon Scott, a British naval officer, was a leading figure in early Antarctic exploration. 
+                                He led two major expeditions: the Discovery Expedition (1901-1904) which conducted significant scientific research, and the ill-fated Terra Nova Expedition (1910-1913) that aimed to be the first to reach the South Pole. Though Scott and his team achieved the feat, they were tragically beaten by a Norwegian team led by Roald Amundsen.  
+                                Scott and his companions perished on the return journey, forever etching their story in Antarctic exploration history.
+
+## Travelled cities
+
+- FIXME - add cities visited.
+- FIXME - city 2
+- FIXME - city 3
