@@ -1,7 +1,7 @@
 ---
 title: "Antonia"
-subtitle: "FIXME - characteristic"
-image: FIXME - photo url
+subtitle: "Runner, traveller and food lover"
+image: https://avatars.githubusercontent.com/u/146723684?v=4
 toc: false
 about:
   id: person-profile
@@ -22,10 +22,10 @@ about:
 
 ## Biography
 
-FIXME: add a one line description about the person
+FIXME: Antonia loves to travel, enjoys park runs and likes to try new food. Washed down with an aperol spritz. 
 
 ## Travelled cities
 
-- FIXME - add cities visited.
-- FIXME - city 2
-- FIXME - city 3
+- FIXME - New York
+- FIXME - Lisbon
+- FIXME - Venice
