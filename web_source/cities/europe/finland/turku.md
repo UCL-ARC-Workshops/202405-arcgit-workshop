@@ -4,12 +4,14 @@ Country: Finland (Europe)
 
 ##### Also known as:
 
-FIXME
+Åbo
 
 ### What we would like to see there
 
-FIXME
+The port when they have tall-ship races
+
+![a image of a tall-ship](https://www.publicdomainpictures.net/pictures/90000/t/galleon-ship-1402398260t2S.jpg)
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Turku)
