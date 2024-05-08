@@ -1,7 +1,7 @@
 ---
 title: "EmmaCR"
 subtitle: "City Hopper"
-image: FIXME - https://avatars.githubusercontent.com/u/111275194?v=4
+image: https://avatars.githubusercontent.com/u/111275194?v=4
 toc: false
 about:
   id: person-profile
