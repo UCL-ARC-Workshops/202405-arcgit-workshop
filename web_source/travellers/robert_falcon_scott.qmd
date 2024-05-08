@@ -28,6 +28,4 @@ Captain Robert Falcon Scott, a British naval officer, was a leading figure in ea
 
 ## Travelled cities
 
-- FIXME - add cities visited.
-- FIXME - city 2
-- FIXME - city 3
+- Some very cold places.
