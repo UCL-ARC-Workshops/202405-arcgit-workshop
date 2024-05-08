@@ -22,10 +22,10 @@ about:
 
 ## Biography
 
-FIXME: Antonia loves to travel, enjoys park runs and likes to try new food. Washed down with an aperol spritz. 
+Antonia loves to travel, enjoys park runs and likes to try new food. Washed down with an aperol spritz. 
 
 ## Travelled cities
 
-- FIXME - New York
-- FIXME - Lisbon
-- FIXME - Venice
+- New York
+- Lisbon
+- Venice
