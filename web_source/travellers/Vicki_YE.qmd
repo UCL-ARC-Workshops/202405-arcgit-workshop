@@ -22,10 +22,10 @@ about:
 
 ## Biography
 
-FIXME: add a one line description about the person
+I used to be an archaeologist
 
 ## Travelled cities
 
-- FIXME - add cities visited.
-- FIXME - city 2
-- FIXME - city 3
+- Lima
+- Busan
+- Cape Town
