@@ -12,4 +12,4 @@ The Chengdu Research Base of Giant Panda Breeding (or simply Chengdu Panda Base)
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [Chendu Wikipedia Page](hhttps://en.wikipedia.org/wiki/Chengdu)
