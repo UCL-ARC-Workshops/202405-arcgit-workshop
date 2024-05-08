@@ -14,4 +14,4 @@ Winter Palace of the Bogd Khan, or the Bogd Khan Palace Museum
 
 ### Extra information
 
-- Link to wikipedia https://en.wikipedia.org/wiki/Winter_Palace_of_the_Bogd_Khan
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Winter_Palace_of_the_Bogd_Khan)
