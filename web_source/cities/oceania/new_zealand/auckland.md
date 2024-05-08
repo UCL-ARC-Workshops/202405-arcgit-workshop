@@ -14,4 +14,4 @@ Aukland bridge
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/Auckland)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Auckland)
