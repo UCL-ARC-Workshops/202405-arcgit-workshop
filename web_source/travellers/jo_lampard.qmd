@@ -1,6 +1,6 @@
 ---
 title: "Jo Lampard"
-subtitle: "Coffee snob!"
+subtitle: "Coffee snob"
 image: https://avatars.githubusercontent.com/u/3974224?v=4
 toc: false
 about:
@@ -21,7 +21,8 @@ about:
 :::
 
 ## Biography
-I only drink espresso, at every available opportunity (across the world!)
+
+I only drink espresso, at every available opportunity (across the world)
 
 ## Travelled cities
 
