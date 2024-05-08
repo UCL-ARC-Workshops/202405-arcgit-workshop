@@ -4,12 +4,17 @@ Country: Ethiopia (Africa)
 
 ##### Also known as:
 
-FIXME
+The Aksumite Empire, also known as The Kingdom of Axum. 
 
 ### What we would like to see there
 
-FIXME
+- Northern Stelae Park
+- Chapel of the Tablet
+
+![Chapel of the Tablet](https://camo.githubusercontent.com/b672bf6b6c2248d4d6ea53097d0c02530c3d006f77dba35d1d027361da2f2027/68747470733a2f2f696d672e61746c61736f6273637572612e636f6d2f594667634c784c7369706262757a435a6e4c35626c43356e3353594a5655424c61612d6f3652644c4736512f72743a6669742f683a3339302f713a38312f736d3a312f7363703a312f61723a312f6148523063484d364c793968644778682f6379316b5a585975637a4d75595731682f656d39755958647a4c6d4e76625339312f634778765957527a4c33427359574e6c2f58326c745957646c63793877593259332f5a446b334e444e6b4e6a6b7a4e4752682f5a6a52664d6a67304d6a59784d4467772f4d3138335a6a6468596d5a694e6a566b2f58324975616e426e2e6a7067)
+
+![Obelisk in Axum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rome_Stele.jpg/330px-Rome_Stele.jpg)
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Axum)
