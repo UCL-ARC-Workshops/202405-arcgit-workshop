@@ -12,7 +12,7 @@ Country: Philippines (Asia)
 ### What we would like to see there
 
 Zamboanga Pink Sand Escape 
-![image](https://github.com/UCL-ARC-Workshops/202405-arcgit-workshop/assets/132667328/93fa56ac-81bc-44fe-86ea-2619e328188c)
+![image of pink sands](https://github.com/UCL-ARC-Workshops/202405-arcgit-workshop/assets/132667328/93fa56ac-81bc-44fe-86ea-2619e328188c)
 
 
 ### Extra information
