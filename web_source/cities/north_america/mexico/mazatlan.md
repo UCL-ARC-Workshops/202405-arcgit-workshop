@@ -14,4 +14,4 @@ The lighthouse (El Faro) - It has a **1,000 watt bulb**, which is focused by a F
 
 ### Extra information
 
-- Link to [wikipedia](https://en.wikipedia.org/wiki/Mazatl%C3%A1n))
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Mazatl%C3%A1n)
