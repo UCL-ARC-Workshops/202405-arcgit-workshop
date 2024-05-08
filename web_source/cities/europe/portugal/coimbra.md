@@ -4,12 +4,12 @@ Country: Portugal (Europe)
 
 ##### Also known as:
 
-FIXME
+N/A
 
 ### What we would like to see there
 
-FIXME
+Ancient architecture is great!
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Coimbra)
