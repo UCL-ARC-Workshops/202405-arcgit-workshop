@@ -8,7 +8,7 @@ N/A
 
 ### What we would like to see there
 
-Ancient architecture.
+Ancient architecture is great!
 
 ### Extra information
 
