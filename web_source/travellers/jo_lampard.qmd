@@ -5,7 +5,7 @@ image: https://avatars.githubusercontent.com/u/3974224?v=4
 toc: false
 about:
   id: person-profile
-template: jolla
+  template: jolla
 ---
 
 ```{=html}
