@@ -2,14 +2,17 @@
 
 Country: New Zealand (Oceania)
 
-##### Also known as:
+##### Also known as: 
 
-FIXME
+Te Whanganui-a-Tara
 
 ### What we would like to see there
 
-FIXME
+Bucket fountain on Cuba Street
+
+![image](https://private-user-images.githubusercontent.com/3974224/328840892-57028ac6-4e52-4d70-810b-628310405b9b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUxNjU2MjUsIm5iZiI6MTcxNTE2NTMyNSwicGF0aCI6Ii8zOTc0MjI0LzMyODg0MDg5Mi01NzAyOGFjNi00ZTUyLTRkNzAtODEwYi02MjgzMTA0MDViOWIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDUwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA1MDhUMTA0ODQ1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NGUxMmMwZjEzZTExYTc1Y2QyMjhjNmEyMThiMGYwYTY4ODc4MzFhNDAyMjhkMTVhOTMyN2UzYjk2Nzk3ZGY0MyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.ArXO2TuTGxw2pvsNFdH33Sul658RxFwQk6SRZUmkLkk)
+
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Wellington)

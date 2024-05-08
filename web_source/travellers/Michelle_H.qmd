@@ -1,0 +1,31 @@
+---
+title: "Michelle H"
+subtitle: "World Traveller"
+image: https://media.self.com/photos/5f0885ffef7a10ffa6640daa/4:3/w_5240,h_3929,c_limit/travel_plane_corona.jpeg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+I like to travel, see new places, people and cultures, and eat amazing food
+
+## Travelled cities
+
+- Tannen
+- Venezia
+- Firenze
