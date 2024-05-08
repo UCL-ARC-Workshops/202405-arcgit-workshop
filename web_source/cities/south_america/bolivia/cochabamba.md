@@ -8,8 +8,10 @@ FIXME
 
 ### What we would like to see there
 
-FIXME
+- Cultural Highlights
+- Beautiful Landscapes
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Cochabamba).
+  
