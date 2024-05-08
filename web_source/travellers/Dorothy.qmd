@@ -36,5 +36,9 @@ Completely lost in Github
 - Vienna
 - Frankfurt
 - Paris
-- Slazburg
+- Salzburg
+- Amsterdam
+- Cologne
+- Hallstatt
+- Venice
 etc..
