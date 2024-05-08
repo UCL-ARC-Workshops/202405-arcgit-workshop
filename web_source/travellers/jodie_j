@@ -1,0 +1,31 @@
+---
+title: "Jodie"
+subtitle: "Talks a lot"
+image: https://avatars.githubusercontent.com/u/138024952?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Jodie talks too much has been on every school report I've ever had 
+
+## Travelled cities
+
+- Rome
+- Paris
+- New York
