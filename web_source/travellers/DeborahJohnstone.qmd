@@ -1,6 +1,6 @@
 ---
 title: "Deborah's traveller page"
-subtitle: "All about Deborah"
+subtitle: "All about Deborah in this Git workshop"
 image: https://avatars.githubusercontent.com/u/135114616?v=4
 toc: false
 about:
