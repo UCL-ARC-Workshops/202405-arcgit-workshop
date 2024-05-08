@@ -11,6 +11,9 @@ al-Jazāʾir
 This building looks like fun!
 ![image of The Martyrs’ Monument](https://gomadnomad.com/wp-content/uploads/2020/04/4-Makamelchahid-937x1024.jpg)
 
+And this too....
+![Casbah](https://image.arrivalguides.com/x/04/03bd03ffb292ebee4bf0bb5d98a1003e.jpg)
+
 ### Extra information
 
 - Link to [wikipedia](https://en.wikipedia.org/wiki/Algiers)
