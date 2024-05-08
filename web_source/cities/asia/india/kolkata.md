@@ -23,4 +23,4 @@ __The City of Palaces__:Kolkata was once the capital of British India, and it is
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Kolkata)
