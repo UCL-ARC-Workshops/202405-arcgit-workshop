@@ -1,7 +1,7 @@
 ---
 title: "Ben Smith"
 subtitle: "Armchair Adventurer"
-image: https://commons.wikimedia.org/wiki/File:Brad_Pitt_in_2014_%28cropped%29.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/9/98/Brad_Pitt_in_2014_%28cropped%29.jpg
 toc: false
 about:
   id: person-profile
@@ -22,7 +22,7 @@ about:
 
 ## Biography
 
-Love to travel to new citiess with my amazing wife!
+Love to travel to new cities with my amazing wife!
 
 ## Travelled cities
 
