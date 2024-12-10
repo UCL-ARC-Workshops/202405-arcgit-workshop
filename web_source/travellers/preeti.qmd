@@ -1,0 +1,59 @@
+title: "Preeti"
+subtitle: "Walking and listening to music"
+image: title: "Milan"
+subtitle: "Histotric building"
+image: https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTa0FnJCpCs9COT1XERLfovORqO4ZsmVP8zxHMrwRi3MSfFCzpmRRJZAdLdKujdB_uO
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+I have music and walking
+
+## Travelled cities
+
+- FIXME - add cities visited.
+- FIXME - city 2
+- FIXME - city 3
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+FIXME: add a one line description about the person
+
+## Travelled cities
+
+- Port au Louis
+- Madrid
+- Milan
