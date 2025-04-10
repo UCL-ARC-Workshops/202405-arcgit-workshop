@@ -1,7 +1,7 @@
 ---
 title: "Daniel Delargy"
 subtitle: "Food Lover"
-image: https://github.com/DDUCL23.png
+image: https://avatars.githubusercontent.com/u/131884451?v=4
 toc: false
 about:
   id: person-profile
